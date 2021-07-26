@@ -1,4 +1,4 @@
-# TITANIC-DATASET-ANALYSIS
+# Titanic-Dataset-Analysis
 
 In the titanic dataset training.ipynb tried to answer some basic questions using analysis and visualization tools. Used matplotlib and seaborn libraries for the same. Also used python numpy and pandas library for computation on arrays and using in memory data frames respectively.
 Questions to which answers have been provided using visualization of data:
